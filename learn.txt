@@ -1,0 +1,5 @@
+git stash save
+git stash pop　スタッシュ 名
+git branch ブランチ名
+git checkout ブランチ名
+git merge ブランチ名
