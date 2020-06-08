@@ -1,5 +1,6 @@
 git stash save
-git stash pop　スタッシュ 名
+git stash pop　スタッシュ名
 git branch ブランチ名
 git checkout ブランチ名
 git merge ブランチ名
+git revert 打ち消したいコミットID
